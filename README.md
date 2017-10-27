@@ -41,9 +41,9 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 
 ndicada dins el full.
 
-    hem instal·lat el ghostscript i el gsviewer per poder veure els resultats.
+    Ladreça de rawgit és:.
 
-Automàticament quan hem canviat l'extensió del fitxer a .ps ja ha estat identificat pel
+
 ----
 ## changelog
 * 27-oct-2017
