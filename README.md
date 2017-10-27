@@ -15,8 +15,8 @@ Automàticament quan hem canviat l'extensió del fitxer a .ps ja ha estat identi
 
 Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers següents:
 
-* codi_RTF.RTF
-* codi_PS.PS
+* Carpeta img amb totes les imatges del projecte
+* index.html
 * codi_XML.xml
 * codi_HTML.html
 * codi_CSS.css
