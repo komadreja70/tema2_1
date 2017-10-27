@@ -37,7 +37,7 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * Hem enganxat l'enllacç allà on diu "paste a GitHub file or GIST url here"
 * A la part de la dreta de la pantalla premem on diu "Use this URL for development"
 * copiam la url de "Use this URL for development" i l'enganxam a una altra finestra del navegador
-* Veim el resultat amb els títols i la llista i els enllaços en format web
+* Veim el resultat amb els títols i la llista i els enllaços en format web.
 
     L'adreça rawgit és:
 
