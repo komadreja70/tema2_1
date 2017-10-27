@@ -39,12 +39,14 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * copiam la url de "Use this URL for development" i l'enganxam a una altra finestra del navegador
 * Veim el resultat amb els títols i la llista i els enllaços en format web
 
+    L'adreça rawgit és:
+
 ----
 ## changelog
-* 24-oct-2017
+* 27-oct-2017
 
 ----
 ## Bibiliografia
 * https://tinypng.com/
-* 
+* https://pixlr.com/editor/
 * https://www.markdowntutorial.com/
