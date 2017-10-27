@@ -39,8 +39,11 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * copiam la url de "Use this URL for development" i l'enganxam a una altra finestra del navegador
 * Veim el resultat amb els títols i la llista i els enllaços en format web.
 
-    L'adreça rawgit és:
+ndicada dins el full.
 
+    hem instal·lat el ghostscript i el gsviewer per poder veure els resultats.
+
+Automàticament quan hem canviat l'extensió del fitxer a .ps ja ha estat identificat pel
 ----
 ## changelog
 * 27-oct-2017
