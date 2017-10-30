@@ -41,7 +41,7 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 
 ndicada dins el full.
 
-    Ladreça de rawgit és:.
+    Ladreça de rawgit és:https://rawgit.com/komadreja70/tema2_1/master/index.html
 
 
 ----
