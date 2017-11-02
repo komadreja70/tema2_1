@@ -40,6 +40,12 @@ L'adreça de rawgit és.
 
 
 ----
+## Validació del codi html.
+Hem validat el document index.html amb l'eina web de  http://validator.w3.org
+Triam l'opció de validate by direct input i enganxam el codi de la nostra tasca index.html.
+El resultat és el que s'adjunta al fitxer validator_w3_org.pdf
+
+----
 ## changelog
 * 02-nov-2017
 
