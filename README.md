@@ -1,14 +1,13 @@
 # tema2_1 readme.md
 Tema 2 tasca número 1
-> Introducció al HTML.
+> Introducció al HTML. enllaç de rawgit  https://rawgit.com/komadreja70/tema2_1/master/index.html
 
 ----
-## Fitxer principal index.html
-El fitxer principal de la tasca és el index.htm. 
-.
+## Tasques prèvies amb les imatges
+Hem descarregat les imatges des d'internet i per ajustar tamanys hem utilitzat l'eina web de https://pixelr.com/editor/ i hem deixat totes les imatges amb un tamany de 300 x 200 pixels.
 
 ----
-## b) Llista de fitxers pujats a GitHub
+## Llista de fitxers pujats a GitHub
 
 Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers següents:
 
@@ -16,7 +15,6 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * index.html
 * tinyweb_resultat.jpg
 * validator_w3_org.pdf
-* 
 
 ----
 ## Utilització de tinypng per comprimir i optimitzar les imatges.
@@ -28,8 +26,8 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * Descarreguem les imatges comprimides i les adjuntam al nostre repositori al directori /img
 
 ----
-## c) Ús de Rawgit per veure html de GitHub
-* Hem editat el fitxer *codi_HTML.html*,  hem copiat l'enllaç de la url
+## Ús de Rawgit per veure html de GitHub
+* Hem editat el fitxer *index.html*,  hem copiat l'enllaç de la url
 * Hem obert una pestanya nova del navegador i hem entrat a https://rawgit.com/
 * Hem enganxat l'enllacç allà on diu "paste a GitHub file or GIST url here"
 * A la part de la dreta de la pantalla premem on diu "Use this URL for development"
