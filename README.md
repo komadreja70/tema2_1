@@ -1,6 +1,6 @@
 # tema2_1 readme.md
 Tema 2 tasca número 1
-> Introducció al HTML. enllaç de rawgit  https://rawgit.com/komadreja70/tema2_1/master/index.html
+> Introducció al HTML. Enllaç de rawgit  https://rawgit.com/komadreja70/tema2_1/master/index.html
 
 ----
 ## Tasques prèvies amb les imatges
