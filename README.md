@@ -3,12 +3,9 @@ Tema 2 tasca número 1
 > Introducció al HTML.
 
 ----
-## Fitxer PS
-Hem editat amb el *notepad.exe* i hem inroduït els codis de format de *postscript* i el text **Hola mundo! Això es una prova de postscript** de tal forma que es vegi en lletra courier tamany 20 i a la posició indicada dins el full.
-
-    hem instal·lat el ghostscript i el gsviewer per poder veure els resultats.
-
-Automàticament quan hem canviat l'extensió del fitxer a .ps ja ha estat identificat pel sistema operatiu per obrir amb *gsviewer* i ja es veu el resultat final amb el format dessitjat.
+## Fitxer principal index.html
+El fitxer principal de la tasca és el index.htm. 
+.
 
 ----
 ## b) Llista de fitxers pujats a GitHub
@@ -17,9 +14,9 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 
 * Carpeta img amb totes les imatges del projecte
 * index.html
-* codi_XML.xml
-* codi_HTML.html
-* codi_CSS.css
+* tinyweb_resultat.jpg
+* validator_w3_org.pdf
+* 
 
 ----
 ## Utilització de tinypng per comprimir i optimitzar les imatges.
@@ -46,7 +43,7 @@ L'adreça de rawgit és.
 
 ----
 ## changelog
-* 27-oct-2017
+* 02-nov-2017
 
 ----
 ## Bibiliografia
